@@ -1,9 +1,5 @@
 In the github, you’ll find a consolidated catalog of documented Joule issues, organized by architecture layer to make navigation as intuitive as possible. For the full picture — including detailed root causes, resolutions, SAP Notes, support components - just git and download the attached Excel file. And we’d love to keep this resource growing: if you have additional issues to contribute, you’re warmly invited to add them. 
 
-Pic here. 
-
- 
-
 Layer 1: Client / UX 
 
 Frame-ancestors Content Security Policy (CSP) violation 
