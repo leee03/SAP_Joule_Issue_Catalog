@@ -3,7 +3,7 @@
 On GitHub, you will find a consolidated catalogue of documented SAP Joule issues, organised according to the **seven architecture layers** shown below. This structure is intended to make navigation and issue identification as intuitive as possible.
 
 > 📥 **Looking for the complete details?**  
-> Download the attached Excel file from GitHub to access the documented **root causes, resolutions, relevant SAP Notes, and support components**.
+> Download the attached Excel file [joule_issue_catalog_v2.xlsx](https://github.com/leee03/SAP_Joule_Issue_Catalog/blob/main/joule_issue_catalog_v2.xlsx) from GitHub to access the documented **root causes, resolutions, relevant SAP Notes, and support components**.
 
 > 🤝 **Help us expand the catalogue**  
 > We would be delighted to keep this resource growing. If you have additional documented issues to contribute, you are warmly invited to add them.
