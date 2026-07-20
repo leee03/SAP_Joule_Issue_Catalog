@@ -1,4 +1,4 @@
-# 🧭 SAP Joule Troubleshooting Catalog
+# 🧭 SAP S/4HANA RIG – Joule Troubleshooting Catalog
 
 On GitHub, you will find a consolidated catalogue of documented SAP Joule issues, organised according to the **seven architecture layers** shown below. This structure is intended to make navigation and issue identification as intuitive as possible.
 
